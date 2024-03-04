@@ -1,5 +1,6 @@
 ### I like voxels and procedural generation.🙂
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=odin_voxel_project)](https://github.com/Dotsially/odin_voxel_project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=idle_botanist)](https://github.com/Dotsially/idle_botanist)
 
 
 <!--
