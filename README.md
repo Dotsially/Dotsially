@@ -1,8 +1,8 @@
 ### I like voxels and procedural generation.🙂
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=odin_voxel_project&theme=transparent)](https://github.com/Dotsially/odin_voxel_project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=idle_botanist&theme=transparent)](https://github.com/Dotsially/idle_botanist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=odin_voxel_project&theme=dark)](https://github.com/Dotsially/odin_voxel_project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=idle_botanist&theme=dark)](https://github.com/Dotsially/idle_botanist)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dotsially&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dotsially&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
 
 ![](https://komarev.com/ghpvc/?username=dotsially&color=grey&style=flat-square)
 
