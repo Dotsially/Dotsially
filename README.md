@@ -2,6 +2,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=odin_voxel_project)](https://github.com/Dotsially/odin_voxel_project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dotsially&repo=idle_botanist)](https://github.com/Dotsially/idle_botanist)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dotsially&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 <!--
 **Dotsially/Dotsially** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
